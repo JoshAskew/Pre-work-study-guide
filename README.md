@@ -1,3 +1,5 @@
+permalink: /index.html
+
 # <Coding-Bootcamp-Prework-Study-Guide>
 
 ## Description
